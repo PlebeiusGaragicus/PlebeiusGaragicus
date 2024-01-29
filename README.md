@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I work in EMS 💉🔥🪓 and am an aspiring self-taught developer 🧑🏻‍💻 who is passionate about building systems for personal empowerment 💪🏼📈.
+I work in EMS 💉🔥🪓 and am an aspiring self-taught developer 🧑🏻‍💻 who is passionate about building systems for personal 💪🏼 empowerment.
 
-I also want to insprite the next generation 👧🏼👦🏻 to build open-source bitcoin and machine learning software for the benefit of all 🌎.
+I also want to insprite the next generation 👧🏼👦🏻 to build open-source bitcoin and machine learning software for the benefit of all.
 
 - 🏗️ I’m currently working on a self-hosted AI inference server.
 - 🧠 My current stack is Python, Ollama, StreamLit and ChainLit on self-hosted Proxmox.
